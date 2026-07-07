@@ -1,5 +1,14 @@
 ## Olá! eu sou a Bea :)
 
+<img 
+    align="left" 
+    alt="Star"
+    title="Star" 
+    width="65px" 
+    style="padding-right: 10px;" 
+    src="images/lotus.png" 
+    />
+
 <p align="left">Estudante de Análise e Desenvolvimento de Sistemas na FATEC Jundiaí. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia, tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 </p>
 
@@ -7,8 +16,8 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meirelesbeatriz14@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/beatrizmeireles052/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6)](https://mail.google.com/mail/?view=cm&fs=1&to=meirelesbeatriz14@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrizmeireles052/)
 
 #
 
@@ -80,6 +89,7 @@
   /><br>
 
 ---
+
 </div>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bytriixz/bytriixz/output/github-contribution-grid-snake-dark.svg">
